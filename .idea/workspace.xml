@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22764498-2024-4cfd-9c52-8299d6ae3397" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rest-Assured/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Rest-Assured/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Selenium/Selenium_cheat_sheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Selenium/Selenium_cheat_sheet.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="22764498-2024-4cfd-9c52-8299d6ae3397" name="Changes" comment="Cucumber project created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +38,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680130685471</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cucumber project created">
+      <created>1680131426961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680131426961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,5 +58,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cucumber project created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cucumber project created" />
   </component>
 </project>

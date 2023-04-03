@@ -34,4 +34,13 @@ public class stepDefinitions {
         System.out.println("The and section");
     }
 
+    @When("User logs into the application with {string} and {string}")
+    public void userLogsIntoTheApplicationWithAnd(String arg0, String arg1) {
+        System.out.println(arg0 + " " + arg1);
+    }
+
+    @And("Cards are displayed are {string}")
+    public void cardsAreDisplayedAre(String arg0) {
+        System.out.println(arg0);
+    }
 }
